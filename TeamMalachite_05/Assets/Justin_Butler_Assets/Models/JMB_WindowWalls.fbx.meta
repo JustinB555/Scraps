@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 3855c27a12885e64382b3c35686b102f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Breakable_Part
+    100002: Glass_Shards2_0__1_
+    100004: Glass_Shards2_0__2_
+    100006: Glass_Shards2_0__3_
+    100008: Glass_Shards2_0__4_
+    100010: Glass_Shards2_0__5_
+    100012: Glass_Shards2_0__6_
+    100014: //RootNode
+    100016: WindowW_Bottom
+    100018: WindowW_Side
+    100020: WindowW_Side__1_
+    100022: WindowW_Top
+    100024: WindowW_Window
+    100026: WW_Damaged
+    100028: WW_Stage0
+    100030: WW_Stage1
+    100032: WW_Stage2
+    400000: Breakable_Part
+    400002: Glass_Shards2_0__1_
+    400004: Glass_Shards2_0__2_
+    400006: Glass_Shards2_0__3_
+    400008: Glass_Shards2_0__4_
+    400010: Glass_Shards2_0__5_
+    400012: Glass_Shards2_0__6_
+    400014: //RootNode
+    400016: WindowW_Bottom
+    400018: WindowW_Side
+    400020: WindowW_Side__1_
+    400022: WindowW_Top
+    400024: WindowW_Window
+    400026: WW_Damaged
+    400028: WW_Stage0
+    400030: WW_Stage1
+    400032: WW_Stage2
+    2100000: Prototype_Structure_Neutral
+    2100002: Prototype_Alpha_Blue
+    2300000: Glass_Shards2_0__1_
+    2300002: Glass_Shards2_0__2_
+    2300004: Glass_Shards2_0__3_
+    2300006: Glass_Shards2_0__4_
+    2300008: Glass_Shards2_0__5_
+    2300010: Glass_Shards2_0__6_
+    2300012: WindowW_Bottom
+    2300014: WindowW_Side
+    2300016: WindowW_Side__1_
+    2300018: WindowW_Top
+    2300020: WindowW_Window
+    2300022: WW_Damaged
+    3300000: Glass_Shards2_0__1_
+    3300002: Glass_Shards2_0__2_
+    3300004: Glass_Shards2_0__3_
+    3300006: Glass_Shards2_0__4_
+    3300008: Glass_Shards2_0__5_
+    3300010: Glass_Shards2_0__6_
+    3300012: WindowW_Bottom
+    3300014: WindowW_Side
+    3300016: WindowW_Side__1_
+    3300018: WindowW_Top
+    3300020: WindowW_Window
+    3300022: WW_Damaged
+    4300000: WindowW_Bottom
+    4300002: WindowW_Side
+    4300004: WindowW_Side__1_
+    4300006: WindowW_Top
+    4300008: Glass_Shards2_0__1_
+    4300010: Glass_Shards2_0__2_
+    4300012: Glass_Shards2_0__3_
+    4300014: Glass_Shards2_0__4_
+    4300016: Glass_Shards2_0__5_
+    4300018: Glass_Shards2_0__6_
+    4300020: WW_Damaged
+    4300022: WindowW_Window
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

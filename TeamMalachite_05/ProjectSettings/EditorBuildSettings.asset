@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SCRAPS_Scenes/SCRAPS_MENU.unity
+    guid: 3f3b42720032def45825d3fbcc0777eb
+  - enabled: 1
+    path: Assets/SCRAPS_Final/Scenes/SCRAPS_MENU_FINAL.unity
+    guid: 053e96d73298efe46a00886983455211
+  - enabled: 1
+    path: Assets/SCRAPS_Scenes/SCRAPS_CREDITS.unity
+    guid: 7f507397f56db4d40a7a767003d5734b
+  - enabled: 0
+    path: Assets/SCRAPS_Scenes/SCRAPS_OUTPOST.unity
+    guid: 5bb7dd9fe9787d342bd71b6ca2fc433a
+  - enabled: 1
+    path: Assets/SCRAPS_Final/Scenes/SCRAPS_OUTPOST_FINAL.unity
+    guid: fd49bf2883571bc438b31a73334355c4
+  - enabled: 1
+    path: Assets/SCRAPS_Internal/DO_NOT_EDIT/Dummy/LEVEL SCENES BELOW THIS SCENE.unity
+    guid: 5252aca8950cbac40889f8f26408be07
+  - enabled: 1
+    path: Assets/JMB_Level_schach.unity
+    guid: c08cafab530e71a49a225d0c2ab412f8
+  - enabled: 1
+    path: Assets/JMB_Level.unity
+    guid: b57b8d109fa1e0c40ab45bd32dd936cf
+  - enabled: 1
+    path: Assets/CS_Level.unity
+    guid: 140983c160b85b34fb2c77106ece87ee
+  - enabled: 1
+    path: Assets/JMS_Level.unity
+    guid: ba0a1290b1f9bae498011ecfbca066c9
+  - enabled: 1
+    path: Assets/KCD_Level.unity
+    guid: c33331f363c07804c837776c33a0c0b4
+  - enabled: 1
+    path: Assets/SCRAPS_Final/Scenes/SCRAPS_END_FINAL.unity
+    guid: ce325cfa4e843134692a7dc5db77e265
+  m_configObjects: {}
